@@ -1,4 +1,7 @@
 # program to implement huffman encoding using greedy strategy.
+# Time Complexity: O(n*Log(n))
+# Space Complexity: O(n)
+
 import heapq
 
 class Node:
