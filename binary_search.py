@@ -1,4 +1,6 @@
 # program to design a function for binary search using divide and search strategy.
+# time complexity: O(log(n))
+# Space complexity: O(1)
 
 def binarySearch(A, l, h, key):
     if (l == h):
